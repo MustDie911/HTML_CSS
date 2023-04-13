@@ -17,6 +17,9 @@ body{
     place-items: center;
     border-radius: 10px;
 }
+.box:hover{
+    background-color: rgba(63, 154, 252, 0.38);
+}
 
 button{
     width: 150px;
