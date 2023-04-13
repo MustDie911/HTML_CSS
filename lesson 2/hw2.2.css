@@ -1,0 +1,20 @@
+body{
+    background-color: #e0cfbb;
+}
+
+.container1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 170px;
+}
+.box1:hover {
+    border-radius: 100%;
+    background-color: darkgray;
+}

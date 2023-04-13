@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 20px;
+    background-color: #e0cfbb;
+    font-family: 'Rubik Pixels', sans-serif;
+
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 20px;
+    background-color: #e0cfbb;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 20px;
+    background-color: #e0cfbb;
+    font-family: 'Dancing Script', cursive;
+}
+
+.box4 {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 20px;
+    background-color: #e0cfbb;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.box5 {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 20px;
+    background-color: #e0cfbb;
+    font-family: 'Indie Flower', cursive;
+}
