@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(224, 207, 187, 0.3);
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: rgba(136, 151, 170, 0.38);
+    align-items: center;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+}
+
+p{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
