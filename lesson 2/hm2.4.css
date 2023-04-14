@@ -13,6 +13,7 @@ body{
     width: 250px;
     background-color: rgba(136, 151, 170, 0.38);
     align-items: center;
+    text-align: center;
     display: grid;
     place-items: center;
     border-radius: 10px;
