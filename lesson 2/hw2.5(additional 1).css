@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Oswald', monospace;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pic_materials {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    font-family: 'Oswald', monospace;
+    font-size: 27px;
+    justify-content: space-evenly;
+}
+
+.receipt{
+    margin-top: 50px;
+    font-family: 'Oswald', monospace;
+    background-color: rgba(211, 211, 211, 0.36);
+    height: 950px;
+}
+ol{
+    position: absolute;
+    height: 1003px;
+    left: 81px;
+    font-size: 25px;
+    line-height: 59px;
+}
