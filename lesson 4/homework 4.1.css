@@ -1,0 +1,77 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.full_form{
+    width: 440px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border: 2px grey solid;
+    align-items: center;
+    text-align: center;
+}
+.inst{
+    width: 250px;
+    height: 80px;
+    margin-top: 50px;
+}
+
+
+input{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 30px;
+    background-color: rgba(35, 88, 201, 0.1);
+    border-radius: 2px;
+    border: 1px grey solid;
+}
+.log{
+    margin-top: 50px;
+}
+.password{
+    margin-top: 10px;
+}
+.btn{
+    width: 310px;
+    height: 30px;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+h2{
+    font-size: 15px;
+    color: grey;
+}
+.fb{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+}
+a{
+    text-decoration: none
+}
+.facebook{
+    height: 30px;
+    width: 30px;
+}
+.forgpas{
+    font-size: 10px;
+}
+
+.down{
+    width: 440px;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    font-size: 12px;
+    border: 2px grey solid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
