@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(0, 170, 141, 0.35);
+}
+
+h1{
+    color: red;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
