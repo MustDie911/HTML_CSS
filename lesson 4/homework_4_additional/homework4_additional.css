@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+html {
+    font-family: 'KoHo', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.section1 {
+    background-image: url("image 4.png");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1_block {
+    width: 1058px;
+    height: 392px;
+    display: flex;
+    background: #FAF9F7;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    align-items: center;
+}
+
+.txt1 {
+    display: flex;
+    width: 529px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    width: 409px;
+    height: 76px;
+    border: 1px solid rgba(156, 152, 152, 0.1);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.section2 {
+    background-image: url("Rectangle 4.png");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.video{
+    width: 949px;
+    height: 533px;
+}
+
+.section3 {
+    background-image: url("Rectangle 4.png");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.section3_block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.card1{
+    width: 453px;
+    height: 700px;
+    background: rgba(83, 83, 83, 0.4);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.btn2{
+    width: 409px;
+    height: 76px;
+    background: rgba(217, 217, 217, 0.6);
+    border: 1px solid rgba(156, 152, 152, 0.1);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+
+    color: #6B6666;
+}
+
+.rectangle13{
+    width: 408px;
+    height: 214px;
+    margin-top: 20px;
+}
