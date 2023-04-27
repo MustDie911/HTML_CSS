@@ -1,0 +1,51 @@
+@media screen and (min-width: 390px) and (max-width: 844px) {
+    body {
+        margin: 0;
+    }
+
+    .full {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .a {
+        width: 100%;
+        height: 11vh;
+        background-color: lightgray;
+    }
+
+    .b {
+        width: 100vw;
+        height: 33vh;
+        background-color: darkgray;
+    }
+
+    .test {
+        width: 100vw;
+        height: 66vh;
+        display: flex;
+        flex-direction: column;
+    }
+    .c {
+        width: 100vw;
+        height: 20vh;
+        background-color: black;
+        border: red 1px solid;
+    }
+    .block {
+        display: flex;
+        flex-direction: column;
+        width: 66vw;
+        height: 30vh;
+    }
+    .block_c {
+        width: 100vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .f {
+        width: 100vw;
+        background-color: red
+    }
+
+}
