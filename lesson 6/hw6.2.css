@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.full {
+    width: 100vw;
+    height: 100vh;
+}
+
+.a{
+    width: 100vw;
+    height: 33vh;
+    background-color: cornflowerblue;
+}
+
+.test{
+    display: flex;
+    flex-direction: row;
+}
+.block_b{
+    display: flex;
+    flex-direction: column;
+}
+
+.container_b{
+    width: 66.6vw;
+    display: flex;
+    flex-direction: row;
+}
+
+.b{
+    width: 22.2vw;
+    height: 33.3vh;
+    border: red solid 1px;
+}
+
+.h{
+    width: 33.3vw;
+    height: 66.6vh;
+    background-color: grey;
+}
